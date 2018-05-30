@@ -1,5 +1,8 @@
 # faster gems source for China
-source 'http://gems.ruby-china.org/'
+# source 'http://gems.ruby-china.org/'
+
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
 
 # gems source for the rest
 # source 'https://rubygems.org/'
